@@ -116,14 +116,14 @@ html{
     color: white;
     font-size: 30px;
 }
-.home-container p{
+ .home-container {
     line-height: 5px;
     margin: 40px 0px 25px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 20px;
     line-height: 30px;
     color:white;
-}
+} 
 .profile img{
     height:380px;
     width: 250px;
@@ -197,3 +197,12 @@ html{
   #icon {
     padding-left: 30px;
   }
+
+    .aboutMe {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    color:white;
+
+
+  }  
