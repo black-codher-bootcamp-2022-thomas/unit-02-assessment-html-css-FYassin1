@@ -1,5 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8011057&assignment_repo_type=AssignmentRepo)
-[TODO: Replace with your Netflify status badge]
+[[![Netlify Status](https://api.netlify.com/api/v1/badges/6ebda627-4909-487e-ad24-64dce6b75490/deploy-status)](https://app.netlify.com/sites/fyashtmlcss/deploys)]
 
 # HTML and CSS Assessment
 
